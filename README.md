@@ -52,7 +52,7 @@ Jossep</a></h1>
     <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,tailwind,unity,postman,git,jest,redux&perline=5" />
   </a>
 </p>
-
+---
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/jossep27">
