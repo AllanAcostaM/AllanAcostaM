@@ -82,3 +82,10 @@ Jossep</a></h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanAcostaM&layout=compact&theme=radical" alt="Jossep's Most Used Languages" />
   </a>
 </p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/AllanAcostaM">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanAcostaM&theme=radical" alt="Jossep's Streak Stats" />
+  </a>
+</p>
