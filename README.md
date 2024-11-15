@@ -6,8 +6,6 @@ Jossep</a></h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/6e/f8/bb/6ef8bb7858572430b509ed6f8ed0dd32.gif">
 </a>
@@ -25,6 +23,7 @@ Jossep</a></h1>
 - 📫 How to reach me **allanacost.27@gmail.com**
 
 <br/>
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 I-am-vishalmaurya@github
 -------------------------
