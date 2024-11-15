@@ -37,7 +37,7 @@ Jossep</a></h1>
 <a href="https://discord.com/channels/1246159441473179729/1246159442110845042" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Button">
 </a>
-<>
+
 ---
 <!--h1 without bottom border-->
 <div id="user-content-toc">
