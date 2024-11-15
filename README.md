@@ -10,15 +10,15 @@ Jossep</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭  Current role: Full-Stack Developer with 
+- 🔭 Role: Full-Stack Developer specializing in front-end and UI/UX.
 
-- 🎯 Core focus: Developing intuitive and functiona
+- 🎯 Focus: Creating intuitive, functional systems to enhance user experience.
 
-- 🚀 Experience: Leading interface design and scalable softw
+- 🚀 Experience: Designing scalable and efficient interfaces.
 
-- 📐 Coding practices: Skilled in using design patterns and c
-
-- 🤝 Methodology: Applying agile methodologies a
+- 📐 Best Practices: Applying design patterns and clean architectures.
+  
+- 🤝 Methodology: Using agile methodologies and creative problem-solving.
 
 - 📫 How to reach me **allanacost.27@gmail.com**
 
