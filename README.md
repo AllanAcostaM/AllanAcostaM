@@ -24,17 +24,6 @@ Jossep</a></h1>
 
 <br/>
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+
 ```
 <hr>
