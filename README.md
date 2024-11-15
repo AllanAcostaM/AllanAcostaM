@@ -53,6 +53,22 @@ Jossep</a></h1>
 </p>
   
 ---
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools i use 🛠️</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,tailwind,unity,postman,git,jest,redux&perline=5" />
+  </a>
+</p>
+  
+---
+
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/jossep27">
