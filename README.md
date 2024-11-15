@@ -7,7 +7,7 @@ Jossep</a></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="280" alt="GIF" src="https://i.pinimg.com/originals/6e/f8/bb/6ef8bb7858572430b509ed6f8ed0dd32.gif">
+  <img align="right" top="500" height="270" width="310" alt="GIF" src="https://i.pinimg.com/originals/6e/f8/bb/6ef8bb7858572430b509ed6f8ed0dd32.gif">
 </a>
 
 - 🔭 Role: Full-Stack Developer specializing in front-end and UI/UX.
