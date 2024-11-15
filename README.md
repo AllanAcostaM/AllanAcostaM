@@ -63,7 +63,7 @@ Jossep</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,tailwind,unity,postman,git,jest,redux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=windows,git,vscode,azure&perline=5" />
   </a>
 </p>
   
@@ -71,21 +71,21 @@ Jossep</a></h1>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/jossep27">
+  <a href="https://github.com/AllanAcostaM">
     <img src="https://github-readme-stats.vercel.app/api?username=AllanAcostaM&show_icons=true&theme=radical" alt="Jossep's GitHub Stats" />
   </a>
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <a href="https://github.com/jossep27">
+  <a href="https://github.com/AllanAcostaM">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanAcostaM&layout=compact&theme=radical" alt="Jossep's Most Used Languages" />
   </a>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <a href="https://github.com/jossep27">
+  <a href="https://github.com/AllanAcostaM">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanAcostaM&theme=radical" alt="Jossep's Streak Stats" />
   </a>
 </p>
