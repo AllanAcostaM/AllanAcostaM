@@ -28,3 +28,13 @@ Jossep</a></h1>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button">
 </a>
 
+<!-- Gmail -->
+<a href="mailto:allanacost.27@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button">
+</a>
+
+<!-- Discord -->
+<a href="https://discordapp.com/users/tu-discord-id" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Button">
+</a>
+
