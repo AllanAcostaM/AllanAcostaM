@@ -10,19 +10,17 @@ Jossep</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭  Current role: Full-Stack Developer with a focus on front-end and UI/UX.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🎯 Core focus: Developing intuitive and functional systems that enhance user interaction and navigation.
 
-- 🤝 I’m available for freelancing.
+- 🚀 Experience: Leading interface design and scalable software solutions, ensuring efficiency in each component.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 📐 Coding practices: Skilled in using design patterns and clean architectures to create maintainable and well-structured code.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 🤝 Methodology: Applying agile methodologies and best practices for innovative problem-solving.
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **allanacost.27@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
