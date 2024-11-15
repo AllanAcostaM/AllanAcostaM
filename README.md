@@ -34,7 +34,7 @@ Jossep</a></h1>
 </a>
 
 <!-- Discord -->
-<a href="https://discordapp.com/users/tu-discord-id" target="_blank">
+<a href="https://discord.com/channels/1246159441473179729/1246159442110845042" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Button">
 </a>
 
