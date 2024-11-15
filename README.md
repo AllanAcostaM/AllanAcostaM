@@ -52,3 +52,24 @@ Jossep</a></h1>
     <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,tailwind,unity,postman,git,jest,redux&perline=5" />
   </a>
 </p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/jossep27">
+    <img src="https://github-readme-stats.vercel.app/api?username=jossep27&show_icons=true&theme=radical" alt="Jossep's GitHub Stats" />
+  </a>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <a href="https://github.com/jossep27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossep27&layout=compact&theme=radical" alt="Jossep's Most Used Languages" />
+  </a>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/jossep27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jossep27&theme=radical" alt="Jossep's Streak Stats" />
+  </a>
+</p>
