@@ -49,6 +49,6 @@ Jossep</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,cs,html,SASS,C#,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,cs,html,Sass,C#,Unityvscode&perline=5" />
   </a>
 </p>
